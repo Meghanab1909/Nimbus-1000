@@ -1,0 +1,19 @@
+Topic: Default Penalties
+
+Definition:
+Default penalties occur when a borrower fails to meet repayment obligations.
+
+Why it is risky:
+High penalties can quickly increase debt and make repayment difficult.
+
+Common red-flag phrases:
+- default fee
+- penalty interest
+- acceleration clause
+- additional charges after default
+
+Fair standard:
+Penalty fees should be reasonable and clearly explained.
+
+Detection idea for AI:
+Contracts imposing excessive default penalties should be flagged as high risk.

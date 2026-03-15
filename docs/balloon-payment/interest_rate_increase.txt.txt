@@ -1,0 +1,18 @@
+Topic: Interest Rate Increase Clauses
+
+Definition:
+Interest rate increase clauses allow lenders to raise interest rates under certain conditions.
+
+Why it is risky:
+Unexpected rate increases can significantly raise the cost of a loan.
+
+Common red-flag phrases:
+- lender may increase interest rate
+- rate adjustment clause
+- interest rate subject to review
+
+Fair standard:
+Any rate adjustment terms should be clearly defined and communicated.
+
+Detection idea for AI:
+Clauses allowing arbitrary interest increases should be flagged.

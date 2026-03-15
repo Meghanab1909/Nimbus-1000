@@ -1,0 +1,19 @@
+Topic: Early Repayment Penalty
+
+Definition:
+An early repayment penalty, also called a prepayment penalty, is a fee charged when a borrower pays off a loan before the scheduled end date.
+
+Why it is risky:
+Borrowers may want to refinance or repay a loan early to reduce interest costs. Penalties discourage this and can trap borrowers in expensive loans.
+
+Common red-flag phrases:
+- prepayment penalty
+- early repayment charge
+- fee for paying off loan early
+- penalty for early settlement
+
+Fair standard:
+Borrowers should be informed about any penalties for early repayment before signing the agreement.
+
+Detection idea for AI:
+Loan agreements mentioning penalties for early repayment should be highlighted for review.

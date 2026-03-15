@@ -1,0 +1,18 @@
+Topic: Loan Rollover Traps
+
+Definition:
+Loan rollover occurs when a borrower extends an existing loan by taking a new loan to pay the previous one.
+
+Why it is risky:
+This can create a cycle of debt where borrowers continuously refinance loans and accumulate more interest.
+
+Common red-flag phrases:
+- rollover loan
+- refinance extension
+- renewal loan agreement
+
+Fair standard:
+Borrowers should be informed about the cost implications of refinancing or rollover options.
+
+Detection idea for AI:
+Clauses encouraging repeated refinancing should be flagged.

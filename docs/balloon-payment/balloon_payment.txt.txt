@@ -1,0 +1,19 @@
+Topic: Balloon Payment
+
+Definition:
+A balloon payment is a large lump sum that must be paid at the end of a loan term after smaller monthly payments.
+
+Why it is risky:
+Borrowers may believe the loan is affordable because monthly payments are low. However, the final balloon payment can be very large and difficult to pay.
+
+Common red-flag phrases:
+- balloon payment due at maturity
+- final lump sum payment
+- remaining balance due at end of term
+- large final payment
+
+Fair standard:
+A fair loan should clearly disclose the existence and amount of any balloon payment so borrowers understand the full cost of the loan.
+
+Detection idea for AI:
+Contracts mentioning large final payments or balloon structures should be flagged as potentially risky clauses.

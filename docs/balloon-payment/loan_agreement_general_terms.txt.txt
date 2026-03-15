@@ -1,0 +1,20 @@
+Topic: General Loan Agreement Terms
+
+Definition:
+A loan agreement is a legal contract between a lender and a borrower that defines the conditions of borrowing money, including repayment schedule, interest rates, penalties, and obligations.
+
+Why it matters:
+Loan agreements often contain complex clauses that borrowers may not fully understand. Hidden fees, adjustable interest rates, and strict penalty conditions can significantly increase the cost of borrowing.
+
+Common risky clauses:
+- hidden administrative or processing fees
+- variable interest rate adjustments
+- early repayment penalties
+- balloon payments
+- aggressive default penalties
+
+Fair standard:
+Loan agreements should clearly disclose all fees, interest rates, repayment terms, and penalties in plain language so borrowers can make informed decisions.
+
+Detection idea for AI:
+The AI system should analyze the document to identify clauses related to fees, penalties, interest adjustments, or repayment structures that may negatively impact the borrower.

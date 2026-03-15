@@ -1,0 +1,19 @@
+Topic: Variable Interest Rate
+
+Definition:
+A variable interest rate loan allows the interest rate to change over time based on market conditions or reference indexes.
+
+Why it is risky:
+Borrowers may start with a low interest rate, but the rate can increase significantly later, increasing monthly payments.
+
+Common red-flag phrases:
+- variable APR
+- adjustable rate
+- interest rate subject to change
+- rate reset clause
+
+Fair standard:
+Loan agreements should clearly explain how and when interest rates may change.
+
+Detection idea for AI:
+Contracts mentioning adjustable interest rates should be analyzed for potential payment increases.

@@ -1,0 +1,13 @@
+Topic: Loan Disclosure Rules
+
+Definition:
+Loan disclosure rules require lenders to clearly explain loan terms including interest rates, fees, repayment schedules, and penalties.
+
+Why it matters:
+Transparent disclosure helps borrowers understand financial obligations before signing.
+
+Fair standard:
+Loan agreements should present terms clearly and avoid misleading language.
+
+Detection idea for AI:
+Contracts lacking clear disclosure of fees or rates should be flagged.

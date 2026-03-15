@@ -1,0 +1,20 @@
+Topic: Predatory Lending Signs
+
+Definition:
+Predatory lending refers to unfair or abusive loan practices that exploit borrowers through hidden fees, misleading terms, or extremely high interest rates.
+
+Common warning signs:
+- excessive interest rates
+- hidden charges
+- confusing contract language
+- pressure to sign quickly
+- penalties that trap borrowers in debt
+
+Why it is risky:
+These practices increase borrower debt and make repayment difficult.
+
+Fair standard:
+Loan terms should be transparent, clearly explained, and free from hidden conditions.
+
+Detection idea for AI:
+If loan documents contain hidden fees, confusing clauses, or aggressive penalties, they should be flagged as potential predatory terms.

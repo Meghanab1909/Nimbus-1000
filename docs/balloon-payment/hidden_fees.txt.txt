@@ -1,0 +1,19 @@
+Topic: Hidden Fees in Loans
+
+Definition:
+Hidden fees are charges that are not clearly disclosed in loan agreements. These may include processing fees, administrative fees, or service charges.
+
+Why it is risky:
+Borrowers may believe they are paying one cost but later discover additional charges that increase the total loan cost.
+
+Common red-flag phrases:
+- administrative fee
+- processing fee
+- service charge
+- additional handling fee
+
+Fair standard:
+All loan fees should be clearly disclosed in the loan agreement before signing.
+
+Detection idea for AI:
+Contracts with multiple unexplained fees or unclear cost descriptions should be flagged.
