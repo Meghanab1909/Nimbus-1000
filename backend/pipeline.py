@@ -1,15 +1,28 @@
 import random
+import boto3
+
 
 def extract_text(file_path):
     """
-    Mock text extraction (later replace with Textract)
+    Extract text from a PDF using AWS Textract (synchronous, single-page friendly).
+    For multi-page PDFs, uses the async StartDocumentTextDetection API.
     """
-    text = """
-    The borrower agrees to a floating interest rate which may increase after two years.
-    A prepayment penalty of 5 percent will apply if the borrower closes the loan early.
-    The borrower must pay a balloon payment at the end of the loan term.
-    """
-    return text
+    with open(file_path, "rb") as f:
+        file_bytes = f.read()
+
+    client = boto3.client("textract")
+
+    response = client.detect_document_text(
+        Document={"Bytes": file_bytes}
+    )
+
+    lines = [
+        block["Text"]
+        for block in response.get("Blocks", [])
+        if block["BlockType"] == "LINE"
+    ]
+
+    return "\n".join(lines)
 
 
 def split_clauses(text):
